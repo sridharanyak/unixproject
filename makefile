@@ -1,4 +1,3 @@
-nano makefile
 README.md:
   touch README.md
   
